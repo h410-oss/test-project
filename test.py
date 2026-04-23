@@ -1,2 +1,2 @@
-name = input("名前は？")
-print("こんにちは " + name)
+age = input("年齢は？")
+print("あなたは " + age + " 歳です")
