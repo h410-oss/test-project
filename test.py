@@ -1,2 +1,4 @@
-age = input("年齢は？")
-print("あなたは " + age + " 歳です")
+from profile import show_profile
+
+print("=== プログラム開始 ===")
+show_profile()
